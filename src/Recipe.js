@@ -7,6 +7,7 @@ const Recipe = ({title, calories, image}) =>{
             <h1>{title}</h1>
            
             <h3>Calories : {calories}</h3>
+
            
             <img className={style.image}src={image} alt=""/>
 
