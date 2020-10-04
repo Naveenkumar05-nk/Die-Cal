@@ -47,7 +47,7 @@ const App = () => {
        <Recipe 
        key={recipe.recipe.label}
        title={recipe.recipe.label} calories={recipe.recipe.calories}
-       /*dietLabels={recipe.recipe.dietLabels}*/
+       dietLabels={recipe.recipe.dietLabels}
        image={recipe.recipe.image}
       />
      ))}

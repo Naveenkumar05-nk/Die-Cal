@@ -7,6 +7,7 @@ const Recipe = ({title, calories, image}) =>{
             <h1>{title}</h1>
            
             <h3>Calories : {calories}</h3>
+            <h3>Diet Label : {dietLabels}</h3>
 
            
             <img className={style.image}src={image} alt=""/>
@@ -17,4 +18,3 @@ const Recipe = ({title, calories, image}) =>{
 
 export default Recipe;
 
-/* <h3>Diet Label : {dietLabels}</h3>*/
