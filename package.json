@@ -2,7 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://naveenkumar05-nk.github.io/RecipeApp/",
+  "homepage": "https://naveenkumar05-nk.github.io/Die-Cal/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
