@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cb4902e3e590bd9223779b37d74e8f79",
+    "revision": "c4e5a4076d3e0be24a921b47d7bd4e27",
     "url": "/Die-Cal/index.html"
   },
   {
-    "revision": "525c0c394bf7fb2dc0fb",
+    "revision": "ffbefddd90859486a129",
     "url": "/Die-Cal/static/css/main.670431ca.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Die-Cal/static/js/2.224214a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "525c0c394bf7fb2dc0fb",
-    "url": "/Die-Cal/static/js/main.9ff291c4.chunk.js"
+    "revision": "ffbefddd90859486a129",
+    "url": "/Die-Cal/static/js/main.2be8a957.chunk.js"
   },
   {
     "revision": "30f9185ada2def07fa2f",

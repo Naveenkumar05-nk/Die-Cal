@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Die-Cal/precache-manifest.06b96e65765c0795419da59de173d32e.js"
+  "/Die-Cal/precache-manifest.bbafe446e876cbf1b71af1ce981be716.js"
 );
 
 self.addEventListener('message', (event) => {

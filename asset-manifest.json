@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Die-Cal/static/css/main.670431ca.chunk.css",
-    "main.js": "/Die-Cal/static/js/main.9ff291c4.chunk.js",
-    "main.js.map": "/Die-Cal/static/js/main.9ff291c4.chunk.js.map",
+    "main.js": "/Die-Cal/static/js/main.2be8a957.chunk.js",
+    "main.js.map": "/Die-Cal/static/js/main.2be8a957.chunk.js.map",
     "runtime-main.js": "/Die-Cal/static/js/runtime-main.f8637d27.js",
     "runtime-main.js.map": "/Die-Cal/static/js/runtime-main.f8637d27.js.map",
     "static/js/2.224214a9.chunk.js": "/Die-Cal/static/js/2.224214a9.chunk.js",
     "static/js/2.224214a9.chunk.js.map": "/Die-Cal/static/js/2.224214a9.chunk.js.map",
     "index.html": "/Die-Cal/index.html",
-    "precache-manifest.06b96e65765c0795419da59de173d32e.js": "/Die-Cal/precache-manifest.06b96e65765c0795419da59de173d32e.js",
+    "precache-manifest.bbafe446e876cbf1b71af1ce981be716.js": "/Die-Cal/precache-manifest.bbafe446e876cbf1b71af1ce981be716.js",
     "service-worker.js": "/Die-Cal/service-worker.js",
     "static/css/main.670431ca.chunk.css.map": "/Die-Cal/static/css/main.670431ca.chunk.css.map",
     "static/js/2.224214a9.chunk.js.LICENSE.txt": "/Die-Cal/static/js/2.224214a9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f8637d27.js",
     "static/js/2.224214a9.chunk.js",
     "static/css/main.670431ca.chunk.css",
-    "static/js/main.9ff291c4.chunk.js"
+    "static/js/main.2be8a957.chunk.js"
   ]
 }
