@@ -50,6 +50,7 @@ const App = () => {
        calories={recipe.recipe.calories}
        dietLabels={recipe.recipe.dietLabels}
        image={recipe.recipe.image}
+       ingredients={recipe.recipe.ingredients}
       />
      ))}
      
